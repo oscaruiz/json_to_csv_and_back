@@ -11,7 +11,8 @@ This repository contains a pair of Python scripts that allow you to convert JSON
 ### Usage
 
 To convert JSON to CSV, run:
-python ./json_to_csv.py ./example.json ./generated.csv
+python ./scripts/json_to_csv.py ./resources/example.json ./resources/generated.csv
 
 To convert CSV to JSON, run:
-python ./csv_to_json.py ./example.csv ./generated.json
+python ./resources/scripts/csv_to_json.py ./example.csv ./resources/generated.json
+
